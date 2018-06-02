@@ -6,6 +6,7 @@ List of all projects
     * 📖 [Redux Tree](https://hackernoon.com/restate-the-story-of-redux-tree-27d8c5d1040a)
  * [faste](https://github.com/theKashey/faste) - finite state(event) machine.
  * [immutable-changes](https://github.com/theKashey/immutable-changes) - what was changed?
+ * [react-gearbox](https://github.com/theKashey/react-gearbox) - react-adopt+restate mixed together.
 
 # React
  * [react-locky](https://github.com/theKashey/react-locky) - __Reverse inert__. A11y/behavior tool 
