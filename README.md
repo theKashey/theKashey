@@ -21,6 +21,7 @@ List of all projects
  * [react-svg-atlas](https://github.com/theKashey/) - React SVG prerendering and isolation library
  * [react-stroller](https://github.com/theKashey/React-stroller) - react __custom scroll bars__ made fast. 
  * [react-media-match](https://github.com/theKashey/react-media-match) - renderless media matcher
+ * [react-reflexible](https://github.com/theKashey/react-reflexible) - automatic visible text selection.
 
 # Node
  * [require-control](https://github.com/theKashey/require-control) - nodejs module resolution management tool.
@@ -69,6 +70,7 @@ List of all projects
     * 📖 [CSS-to-JS](https://itnext.io/css-to-js-1a2ac587df12)
  * [postcss-to-js](https://github.com/theKashey/postcss-to-js) - css-to-js webpack loader
  * [css-to-js-loader](https://github.com/theKashey/css-to-js-loader) - css-to-js webpack loader
+ * [react-style-singleton](https://github.com/theKashey/react-style-singleton) - 0.5kb tool to ship static styles among library.
 
 # Stuff
  * [react-nyan-stroller](https://github.com/theKashey/react-nyan-stroller) - Nyan-cat custom scroll bar.
