@@ -91,3 +91,9 @@ List of all projects
  * 📖 [The Cake is a Lie!](https://hackernoon.com/the-cake-is-a-lie-f0210aab2ee3)
  * 📖 [2 things about PureComponents you probably should know](https://medium.com/@antonkorzunov/2-things-about-purecomponent-you-probable-should-know-b04844a90d4)
  * 📖 [The way of HOC](https://codeburst.io/the-way-of-higher-order-component-37fc937534a9)
+ 
+ # Habr articles (russian)
+  * [Tell where are you, and I will tell where are you](https://habr.com/post/268643/) - converting Geo coordinates to the address
+  * [Blocks, Suburbs...](https://habr.com/post/253515/) - creating a visual coverage for the administrative divisions.
+  * [Kashey's death and where to find it](https://habr.com/post/251871/) - Adjacent Set, Materialized Path, Nested set, B-trees and space filling curves (I have to translate it!)
+  * [W for Wikipedia](https://habr.com/post/239925/) - analyzing Wikipedia data from geometry point of view 
