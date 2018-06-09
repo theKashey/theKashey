@@ -22,6 +22,7 @@ List of all projects
  * [react-stroller](https://github.com/theKashey/React-stroller) - react __custom scroll bars__ made fast. 
  * [react-media-match](https://github.com/theKashey/react-media-match) - renderless media matcher
  * [react-reflexible](https://github.com/theKashey/react-reflexible) - automatic visible text selection.
+ * [react-power-timers](https://github.com/theKashey/react-power-timers) - timers in renderless container form.
 
 # Node
  * [require-control](https://github.com/theKashey/require-control) - nodejs module resolution management tool.
