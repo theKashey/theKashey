@@ -5,6 +5,7 @@ List of all projects
     * 📖 [The State of the State](https://blog.cloudboost.io/the-state-of-the-state-of-the-state-f93c8bdc6b1b)    
     * 📖 [Redux Tree](https://hackernoon.com/restate-the-story-of-redux-tree-27d8c5d1040a)
  * [faste](https://github.com/theKashey/faste) - finite state(event) machine.
+    * 📖 [FASTEn yor State](https://medium.com/@antonkorzunov/fasten-your-state-9fb9f9b44f30) 
  * [immutable-changes](https://github.com/theKashey/immutable-changes) - what was changed?
  * [react-gearbox](https://github.com/theKashey/react-gearbox) - react-adopt+restate mixed together.
 
