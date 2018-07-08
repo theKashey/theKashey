@@ -24,6 +24,8 @@ List of all projects
  * [react-media-match](https://github.com/theKashey/react-media-match) - renderless media matcher
  * [react-reflexible](https://github.com/theKashey/react-reflexible) - automatic visible text selection.
  * [react-power-timers](https://github.com/theKashey/react-power-timers) - timers in renderless container form.
+ * [react-queue](https://github.com/theKashey/react-queue) - renderless task scheduler.
+ * [recondition](https://github.com/theKashey/recondition) - renderless masks and triggers.
 
 # Node
  * [require-control](https://github.com/theKashey/require-control) - nodejs module resolution management tool.
@@ -61,6 +63,7 @@ List of all projects
     * 📖 [Unit tests are production code](https://medium.com/techtrument/unit-tests-are-production-code-d256d86f073e)
     * 📖 [How to mock a dependecy](https://itnext.io/how-to-mock-dependency-in-a-node-js-and-why-2ad4386f6587)
  * [react-remock](https://github.com/theKashey/react-remock) - react mocking library
+ * [react-rename](https://github.com/theKashey/react-rename) - react renaming library
  * [resolveQuire](https://github.com/theKashey/resolveQuire) - functional wrapped around proxyquire
  * [proxyquire-webpack-alias](https://github.com/theKashey/proxyquire-webpack-alias) - proxyquire 2 + webpack aliases
  * [function-double](https://github.com/theKashey/function-double) - function mocking
