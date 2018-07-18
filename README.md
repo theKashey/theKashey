@@ -21,6 +21,7 @@ List of all projects
     * 📖 [React code splitting made easier](https://hackernoon.com/react-and-code-splitting-made-easy-f118befb5168)
  * [react-svg-atlas](https://github.com/theKashey/) - React SVG prerendering and isolation library
  * [react-stroller](https://github.com/theKashey/React-stroller) - react __custom scroll bars__ made fast. 
+ * [react-scroll-locky](https://github.com/theKashey/react-scroll-locky) - React body scroll locker made right.
  * [react-media-match](https://github.com/theKashey/react-media-match) - renderless media matcher
  * [react-reflexible](https://github.com/theKashey/react-reflexible) - automatic visible text selection.
  * [react-power-timers](https://github.com/theKashey/react-power-timers) - timers in renderless container form.
