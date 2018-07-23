@@ -22,11 +22,13 @@ List of all projects
  * [react-svg-atlas](https://github.com/theKashey/) - React SVG prerendering and isolation library
  * [react-stroller](https://github.com/theKashey/React-stroller) - react __custom scroll bars__ made fast. 
  * [react-scroll-locky](https://github.com/theKashey/react-scroll-locky) - React body scroll locker made right.
+    * 📖 [How to fight the <body> scroll](https://medium.com/react-camp/how-to-fight-the-body-scroll-2b00267b37ac)
  * [react-media-match](https://github.com/theKashey/react-media-match) - renderless media matcher
  * [react-reflexible](https://github.com/theKashey/react-reflexible) - automatic visible text selection.
  * [react-power-timers](https://github.com/theKashey/react-power-timers) - timers in renderless container form.
  * [react-queue](https://github.com/theKashey/react-queue) - renderless task scheduler.
  * [recondition](https://github.com/theKashey/recondition) - renderless masks and triggers.
+ * [why-did-you-update-redux](https://github.com/theKashey/why-did-you-update-redux) - redux testing tool.
 
 # Node
  * [require-control](https://github.com/theKashey/require-control) - nodejs module resolution management tool.
