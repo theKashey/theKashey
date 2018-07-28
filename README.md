@@ -91,6 +91,7 @@ List of all projects
 
 
 # Just articles
+ * 📖 [Unique IDs and where to find them](https://medium.com/@antonkorzunov/unique-ids-and-where-to-find-them-14020ddbc964)
  * 📖 [I will split you into the pieces](https://itnext.io/i-will-spilt-you-into-the-pieces-dfa1ae97bede)
  * 📖 [React Hot Loader Considered Harmful](https://codeburst.io/react-hot-loader-considered-harmful-321fe3b6ca74)
  * 📖 [Hey! Async/await a minute](https://medium.com/techtrument/hey-await-a-minute-6e574ec6492)
