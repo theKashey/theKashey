@@ -24,6 +24,7 @@ List of all projects
  * [react-scroll-locky](https://github.com/theKashey/react-scroll-locky) - React body scroll locker made right.
     * 📖 [How to fight the <body> scroll](https://medium.com/react-camp/how-to-fight-the-body-scroll-2b00267b37ac)
  * [react-media-match](https://github.com/theKashey/react-media-match) - renderless media matcher
+   * 📖 [Adaptive?! Responsive? Reactive!](https://medium.com/@antonkorzunov/adaptive-responsive-reactive-62fb938d6191)
  * [react-reflexible](https://github.com/theKashey/react-reflexible) - automatic visible text selection.
  * [react-power-timers](https://github.com/theKashey/react-power-timers) - timers in renderless container form.
  * [react-queue](https://github.com/theKashey/react-queue) - renderless task scheduler.
