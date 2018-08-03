@@ -19,6 +19,8 @@ List of all projects
     * 📖 [getDerivedStateFromState](https://itnext.io/getderivedstatefromstate-making-complex-things-simpler-4450115e49d6)
  * [react-imported-component](https://github.com/theKashey/react-imported-component) - react async component with SSR support 
     * 📖 [React code splitting made easier](https://hackernoon.com/react-and-code-splitting-made-easy-f118befb5168)
+ * [react-prerendered-component](https://github.com/theKashey/react-prerendered-component) - enhanced SSR code splitting.
+    * 📖 [React Server Side Code Splitting Made.. Again](https://medium.com/@antonkorzunov/react-server-side-code-splitting-made-again-a61f8cbbd64b)
  * [react-svg-atlas](https://github.com/theKashey/) - React SVG prerendering and isolation library
  * [react-stroller](https://github.com/theKashey/React-stroller) - react __custom scroll bars__ made fast. 
  * [react-scroll-locky](https://github.com/theKashey/react-scroll-locky) - React body scroll locker made right.
