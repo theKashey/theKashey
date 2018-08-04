@@ -69,6 +69,7 @@ List of all projects
     * 📖 [Unit tests are production code](https://medium.com/techtrument/unit-tests-are-production-code-d256d86f073e)
     * 📖 [How to mock a dependecy](https://itnext.io/how-to-mock-dependency-in-a-node-js-and-why-2ad4386f6587)
  * [react-remock](https://github.com/theKashey/react-remock) - react mocking library
+    * 📖 [Why I Always Use Shallow Rendering](https://medium.com/@antonkorzunov/why-i-always-use-shallow-rendering-a3a50da60942)
  * [react-rename](https://github.com/theKashey/react-rename) - react renaming library
  * [resolveQuire](https://github.com/theKashey/resolveQuire) - functional wrapped around proxyquire
  * [proxyquire-webpack-alias](https://github.com/theKashey/proxyquire-webpack-alias) - proxyquire 2 + webpack aliases
