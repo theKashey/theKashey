@@ -32,6 +32,8 @@ List of all projects
  * [react-queue](https://github.com/theKashey/react-queue) - renderless task scheduler.
  * [recondition](https://github.com/theKashey/recondition) - renderless masks and triggers.
  * [why-did-you-update-redux](https://github.com/theKashey/why-did-you-update-redux) - redux testing tool.
+ * [react-clientside-effect](https://github.com/theKashey/react-clientside-effect) - React 16 compatible client-side only fork of "react-side-channel.
+ * [react-push-channel](https://github.com/theKashey/react-push-channel) - a base bubbling data from the depths.  
 
 # Node
  * [require-control](https://github.com/theKashey/require-control) - nodejs module resolution management tool.
