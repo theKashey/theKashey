@@ -99,6 +99,8 @@ List of all projects
 
 
 # Just articles
+ * 📖 [You probably need Redux](https://medium.com/@antonkorzunov/you-probably-need-redux-e0c49ab4d98f)
+ * 📖 [immutable vs Immutable-js](https://medium.com/@antonkorzunov/immutable-vs-immutable-js-d524bf515bcd)
  * 📖 [Unique IDs and where to find them](https://medium.com/@antonkorzunov/unique-ids-and-where-to-find-them-14020ddbc964)
  * 📖 [I will split you into the pieces](https://itnext.io/i-will-spilt-you-into-the-pieces-dfa1ae97bede)
  * 📖 [React Hot Loader Considered Harmful](https://codeburst.io/react-hot-loader-considered-harmful-321fe3b6ca74)
