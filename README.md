@@ -9,6 +9,7 @@ List of all projects
  * [immutable-changes](https://github.com/theKashey/immutable-changes) - what was changed?
  * [react-gearbox](https://github.com/theKashey/react-gearbox) - react-adopt+restate mixed together.
  * [react-push-channel](https://github.com/theKashey/react-push-channel) - react context flowing backwards!
+ * [with-known-usage](https://github.com/theKashey/with-known-usage) - object keys usage tracker
 
 # React
  * [react-locky](https://github.com/theKashey/react-locky) - __Reverse inert__. A11y/behavior tool 
@@ -35,6 +36,7 @@ List of all projects
  * [why-did-you-update-redux](https://github.com/theKashey/why-did-you-update-redux) - redux testing tool.
  * [react-clientside-effect](https://github.com/theKashey/react-clientside-effect) - React 16 compatible client-side only fork of "react-side-channel.
  * [react-push-channel](https://github.com/theKashey/react-push-channel) - a base bubbling data from the depths.  
+ * [react-shallow-context](https://github.com/theKashey/react-shallow-context) - shallowEqual for Context API.
 
 # Node
  * [require-control](https://github.com/theKashey/require-control) - nodejs module resolution management tool.
