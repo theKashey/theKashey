@@ -68,7 +68,7 @@ List of all projects
    
 
 # Mocking
- * [rewiremock](https://github.com/theKashey/search-trie) - nodejs/webpack mocking tool
+ * [rewiremock](https://github.com/theKashey/rewiremock) - nodejs/webpack mocking tool
     * 📖 [Unit Tests for SkyNet](https://itnext.io/unit-tests-for-skynet-written-in-js-6704265858a4)
     * 📖 [Mocking was a code smell](https://itnext.io/mocking-was-a-code-smell-7f93d8a5d6f2)
     * 📖 [Webpack, Mocha, Karma and mocking](https://itnext.io/adult-mocking-for-webpack-9b32eb0ca0d8)
