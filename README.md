@@ -21,14 +21,18 @@ List of all projects
     * 📖 [getDerivedStateFromState](https://itnext.io/getderivedstatefromstate-making-complex-things-simpler-4450115e49d6)
  * [react-imported-component](https://github.com/theKashey/react-imported-component) - react async component with SSR support 
     * 📖 [React code splitting made easier](https://hackernoon.com/react-and-code-splitting-made-easy-f118befb5168)
+    * 📖 [React-imported-component v6](https://dev.to/thekashey/react-imported-component-v6-4304)
  * [react-prerendered-component](https://github.com/theKashey/react-prerendered-component) - enhanced SSR code splitting.
     * 📖 [React Server Side Code Splitting Made.. Again](https://medium.com/@antonkorzunov/react-server-side-code-splitting-made-again-a61f8cbbd64b)
+    * 📖 [React SSR Caching](https://dev.to/thekashey/a-new-react-and-the-old-cache-15h5)
  * [react-svg-atlas](https://github.com/theKashey/) - React SVG prerendering and isolation library
  * [react-stroller](https://github.com/theKashey/React-stroller) - react __custom scroll bars__ made fast. 
  * [react-scroll-locky](https://github.com/theKashey/react-scroll-locky) - React body scroll locker made right.
     * 📖 [How to fight the <body> scroll](https://medium.com/react-camp/how-to-fight-the-body-scroll-2b00267b37ac)
+ * [react-remove-scroll](https://github.com/theKashey/react-remove-scroll) - to remove scrollbars from the browser   
  * [react-media-match](https://github.com/theKashey/react-media-match) - renderless media matcher
    * 📖 [Adaptive?! Responsive? Reactive!](https://medium.com/@antonkorzunov/adaptive-responsive-reactive-62fb938d6191)
+   * 📖 [Take the Responsivebility](https://dev.to/thekashey/take-the-responsivebility-3m8f)
  * [react-reflexible](https://github.com/theKashey/react-reflexible) - automatic visible text selection.
  * [react-power-timers](https://github.com/theKashey/react-power-timers) - timers in renderless container form.
  * [react-queue](https://github.com/theKashey/react-queue) - renderless task scheduler.
@@ -37,6 +41,13 @@ List of all projects
  * [react-clientside-effect](https://github.com/theKashey/react-clientside-effect) - React 16 compatible client-side only fork of "react-side-channel.
  * [react-push-channel](https://github.com/theKashey/react-push-channel) - a base bubbling data from the depths.  
  * [react-shallow-context](https://github.com/theKashey/react-shallow-context) - shallowEqual for Context API.
+ * [react-event-injector](https://github.com/theKashey/react-event-injector) - to inject active or passive events into DOM
+ * [use-sidecar](https://github.com/theKashey/use-sidecar) - another way to code splitting
+   * 📖 [Sidecar for a code splitting](https://dev.to/thekashey/sidecar-for-a-code-splitting-1o8g)
+ * [use-callback-ref](https://github.com/theKashey/use-callback-ref) - advanced patterns for React.Ref management
+   * 📖 [The same useRef, but it will callback](https://dev.to/thekashey/the-same-useref-but-it-will-callback-8bo)
+   * 📖 [Merging Refs](https://dev.to/thekashey/merging-refs-41l8)
+   
 
 # Node
  * [require-control](https://github.com/theKashey/require-control) - nodejs module resolution management tool.
@@ -57,6 +68,7 @@ List of all projects
 # DOM
  * [focus-lock](https://github.com/theKashey/focus-lock) - pure DOM focus management tool.
  * [dom-focus-lock](https://github.com/theKashey/dom-focus-lock) - sugar
+ * [aria-hidden](https://github.com/theKashey/aria-hidden) - apply `aria-hidden` to all the nodes except
  
  
 # Util
@@ -65,6 +77,8 @@ List of all projects
  * [proxyequal](https://github.com/theKashey/proxyequal) - proxy based element comparison.
  * [search-trie](https://github.com/theKashey/search-trie) - a simple trie
  * [plimited](https://github.com/theKashey/plimited) - connection pool in async form.
+ * [kashe](https://github.com/theKashey/kashe) - weakmap based reselect
+   * 📖 [Memoization forget-me-bomb](https://dev.to/thekashey/memoization-forget-me-bomb-34kh)
    
 
 # Mocking
@@ -73,9 +87,10 @@ List of all projects
     * 📖 [Mocking was a code smell](https://itnext.io/mocking-was-a-code-smell-7f93d8a5d6f2)
     * 📖 [Webpack, Mocha, Karma and mocking](https://itnext.io/adult-mocking-for-webpack-9b32eb0ca0d8)
     * 📖 [Unit tests are production code](https://medium.com/techtrument/unit-tests-are-production-code-d256d86f073e)
-    * 📖 [How to mock a dependecy](https://itnext.io/how-to-mock-dependency-in-a-node-js-and-why-2ad4386f6587)
+    * 📖 [How to mock a dependecy](https://itnext.io/how-to-mock-dependency-in-a-node-js-and-why-2ad4386f6587)    
+    * 📖 [Please stop playing with proxyquire](https://dev.to/thekashey/please-stop-playing-with-proxyquire-11j4)
  * [react-remock](https://github.com/theKashey/react-remock) - react mocking library
-    * 📖 [Why I Always Use Shallow Rendering](https://medium.com/@antonkorzunov/why-i-always-use-shallow-rendering-a3a50da60942)
+    * 📖 [Why I Always Use Shallow Rendering](https://medium.com/@antonkorzunov/why-i-always-use-shallow-rendering-a3a50da60942)    
  * [react-rename](https://github.com/theKashey/react-rename) - react renaming library
  * [resolveQuire](https://github.com/theKashey/resolveQuire) - functional wrapped around proxyquire
  * [proxyquire-webpack-alias](https://github.com/theKashey/proxyquire-webpack-alias) - proxyquire 2 + webpack aliases
@@ -90,6 +105,13 @@ List of all projects
  * [css-to-js-loader](https://github.com/theKashey/css-to-js-loader) - css-to-js webpack loader
  * [react-style-singleton](https://github.com/theKashey/react-style-singleton) - 0.5kb tool to ship static styles among library.
 
+# Optimizations
+ * [runtime-compress-loader](https://github.com/theKashey/runtime-compress-loader) - a webpack loader to optimize sugar left by babel or tslib
+ * [jsx-compress-loader](https://github.com/theKashey/jsx-compress-loader) - a webpack loader to speedup React.createElement usage
+ * [devolution](https://github.com/theKashey/devolution) - bundler-independent es5/es2015 bundle transformation
+ * [used-styles](https://github.com/theKashey/used-styles) - css critical styles extraction
+ * [webpack-imported](https://github.com/theKashey/webpack-imported) - Webpack integration to React
+
 # Stuff
  * [react-nyan-stroller](https://github.com/theKashey/react-nyan-stroller) - Nyan-cat custom scroll bar.
  * [react-backtrace](https://github.com/theKashey/react-backtrace) - analitics breadcrumps
@@ -101,6 +123,17 @@ List of all projects
 
 
 # Just articles
+ * 📖 [A slip second later](https://dev.to/thekashey/end-game-a-split-second-later-15mc)
+ * 📖 [Optimizing CSS delivery](https://dev.to/thekashey/optimising-css-delivery-57eh)
+ * 📖 [Optimizing JS delivery](https://dev.to/thekashey/optimising-js-delivery-4h6l)
+ * 📖 [How code splitting works](https://dev.to/thekashey/inside-the-code-split-169m)
+ * 📖 [When to codesplit, what and why](https://dev.to/thekashey/code-splitting-what-when-and-why-59op)
+ * 📖 [Caching is not Memoization](https://dev.to/thekashey/dejavu-caching-versus-memoization-298n)
+ * 📖 [Require requirement testing](https://dev.to/thekashey/prefer-integration-tests-think-twice-1l6d)
+ * 📖 [Eat bear in parts Redux pattern](https://dev.to/thekashey/eat-bear-in-parts-3f0o)
+ * 📖 [Happy Potter and the Order of CSS](https://dev.to/thekashey/happy-potter-and-the-order-of-css-5ec)
+ * 📖 [Finite React Components](https://dev.to/thekashey/infinite-war-995)
+ * 📖 [SSR - Dependency mocking is the answer](https://medium.com/hackernoon/ssr-dependency-mocking-is-the-answer-d8d8c371aa94)
  * 📖 [You probably need Redux](https://medium.com/@antonkorzunov/you-probably-need-redux-e0c49ab4d98f)
  * 📖 [immutable vs Immutable-js](https://medium.com/@antonkorzunov/immutable-vs-immutable-js-d524bf515bcd)
  * 📖 [Unique IDs and where to find them](https://medium.com/@antonkorzunov/unique-ids-and-where-to-find-them-14020ddbc964)
