@@ -11,7 +11,7 @@ List of all projects
  * [![downloads](https://badgen.net/npm/dm/react-push-channel)](https://www.npmtrends.com/react-push-channel) [react-push-channel](https://github.com/theKashey/react-push-channel) - react context flowing backwards!
  * [![downloads](https://badgen.net/npm/dm/with-known-usage)](https://www.npmtrends.com/with-known-usage) [with-known-usage](https://github.com/theKashey/with-known-usage) - object keys usage tracker
   * [![downloads](https://badgen.net/npm/dm/kashe)](https://www.npmtrends.com/kashe) [kashe](https://github.com/theKashey/kashe) - weakmap based reselect
-   * 📖 [Memoization forget-me-bomb](https://dev.to/thekashey/memoization-forget-me-bomb-34kh)
+    * 📖 [Memoization forget-me-bomb](https://dev.to/thekashey/memoization-forget-me-bomb-34kh)
 
 # React
  * [![downloads](https://badgen.net/npm/dm/react-locky)](https://www.npmtrends.com/react-locky) [react-locky](https://github.com/theKashey/react-locky) - __Reverse inert__. A11y/behavior tool 
@@ -63,6 +63,7 @@ List of all projects
  * [![downloads](https://badgen.net/npm/dm/package-self)](https://www.npmtrends.com/package-self) [package-self](https://github.com/theKashey/package-self) - add your self as your package
 
 # Data sources
+ * [![downloads](https://badgen.net/npm/dm/iso3166-2-db)](https://www.npmtrends.com/iso3166-2-db) [3166-2 DB](esosedi/3166) - list of countries (3166).
  * [![downloads](https://badgen.net/npm/dm/the-country-names)](https://www.npmtrends.com/the-country-names) [the-country-names](https://github.com/theKashey/the-country-names) - list of countries (3166).
  * [![downloads](https://badgen.net/npm/dm/react-map-chart)](https://www.npmtrends.com/react-map-chart) [react-map-chart](https://github.com/theKashey/react-map-chart) - Map of the world
  * [![downloads](https://badgen.net/npm/dm/address-complete)](https://www.npmtrends.com/address-complete) [address-complete](https://github.com/theKashey/address-complete) - autocomplete data provider
