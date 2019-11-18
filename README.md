@@ -14,6 +14,7 @@ List of all projects
     * 📖 [Memoization forget-me-bomb](https://dev.to/thekashey/memoization-forget-me-bomb-34kh)
 
 # React
+ * [![downloads](https://badgen.net/npm/dm/react-hot-loader)](https://www.npmtrends.com/react-hot-loader) [react-hot-loader](https://github.com/gaearon/react-hot-loader) - I do RHL since version 3.
  * [![downloads](https://badgen.net/npm/dm/react-locky)](https://www.npmtrends.com/react-locky) [react-locky](https://github.com/theKashey/react-locky) - __Reverse inert__. A11y/behavior tool 
     * 📖 [How to train your scroll](https://hackernoon.com/how-to-train-a-your-scroll-c9edcf28dbfa)
  * [![downloads](https://badgen.net/npm/dm/react-focus-lock)](https://www.npmtrends.com/react-focus-lock) [react-focus-lock](https://github.com/theKashey/react-focus-lock) - a __focus management__ tool. 
