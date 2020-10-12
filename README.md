@@ -115,6 +115,7 @@ List of all projects
  * [![downloads](https://badgen.net/npm/dm/runtime-compress-loader)](https://www.npmtrends.com/runtime-compress-loader) [runtime-compress-loader](https://github.com/theKashey/runtime-compress-loader) - a webpack loader to optimize sugar left by babel or tslib
  * [![downloads](https://badgen.net/npm/dm/jsx-compress-loader)](https://www.npmtrends.com/jsx-compress-loader) [jsx-compress-loader](https://github.com/theKashey/jsx-compress-loader) - a webpack loader to speedup React.createElement usage
  * [![downloads](https://badgen.net/npm/dm/devolution)](https://www.npmtrends.com/devolution) [devolution](https://github.com/theKashey/devolution) - bundler-independent es5/es2015 bundle transformation
+   * 📖 [DejaVu: Caching versus Memoization](https://dev.to/thekashey/dejavu-caching-versus-memoization-298n)
  * [![downloads](https://badgen.net/npm/dm/used-styles)](https://www.npmtrends.com/used-styles) [used-styles](https://github.com/theKashey/used-styles) - css critical styles extraction
 
 # Stuff
@@ -150,6 +151,7 @@ List of all projects
  * 📖 [The Cake is a Lie!](https://hackernoon.com/the-cake-is-a-lie-f0210aab2ee3)
  * 📖 [2 things about PureComponents you probably should know](https://medium.com/@antonkorzunov/2-things-about-purecomponent-you-probable-should-know-b04844a90d4)
  * 📖 [The way of HOC](https://codeburst.io/the-way-of-higher-order-component-37fc937534a9)
+ * 📖 [The Duck Tales](https://dev.to/thekashey/the-duck-tales-ihi)
  
  # Habr articles (russian)
   * 📖 [Tell where are you, and I will tell where are you](https://habr.com/post/268643/) - converting Geo coordinates to the address
