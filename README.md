@@ -53,6 +53,7 @@ List of all projects
     * 📖 [React Server Side Code Splitting Made.. Again](https://medium.com/@antonkorzunov/react-server-side-code-splitting-made-again-a61f8cbbd64b)
     * 📖 [React SSR Caching](https://dev.to/thekashey/a-new-react-and-the-old-cache-15h5)
  * [![downloads](https://badgen.net/npm/dm/webpack-imported)](https://www.npmtrends.com/webpack-imported) [webpack-imported](https://github.com/theKashey/webpack-imported) - Webpack integration to React
+ * [![downloads](https://badgen.net/npm/dm/@loadable/component)](https://www.npmtrends.com/@loadable/component) [loadable-components](https://github.com/gregberge/loadable-components) - maintainer since 2020.
 
 
 
